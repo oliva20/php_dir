@@ -1,7 +1,6 @@
 <?php
 
 include './model/dao/NodeDAO.php';
-include './model/dto/Node.php';
 include './model/dto/Type.php';
 
 class NodeDAOImpl extends SQLite3 implements NodeDAO { 
