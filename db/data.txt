@@ -1,0 +1,10 @@
+Documents\images\Image1.jpg 
+Documents\images\Image2.jpg 
+Documents\images\Image3.png 
+Documents\Works\Letter.doc
+Documents\Works\Accountant\Accounting.xls
+Documents\Works\Accountant\AnnualReport.xls
+Program Files\Skype\Skype.exe
+Program Files\Skype\Readme.txt
+Program Files\Mysql\Mysql.exe
+Program Files\Mysql\Mysql.com
